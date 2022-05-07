@@ -1,6 +1,6 @@
 ### Hi there, I'm Emon 👋
 ---
-#### Certified agile product manager with a developer background pursuing new possibilities in web3 to solve the question, “How can decentralized digital currencies benefit folks without access to traditional money or assets?”
+#### Certified agile product manager with a developer background pursuing new possibilities in web3 to solve the question, “How can decentralized technologies benefit folks without access to traditional money or assets?”
 
 ### Here are some ideas to get you started:</br>
 - 🔭 I’m currently working on smart contracts
