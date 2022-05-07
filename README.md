@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning to become a full stack web3 developer / product manager
 - 👯 I’m looking to collaborate on anything that can help provide a positive impact to society
 - 💬 Ask me about my pets 🐈‍⬛ 🐕
-- 🤷🏽 Pronouns: They / He
+- 🤷🏽  Pronouns: They / He
 
 <p align="center">
   <i>Let's connect and chat! </i>
