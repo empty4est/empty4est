@@ -6,5 +6,5 @@
 - 🔭 I’m currently working on smart contracts
 - 🌱 I’m currently learning to become a web3 full stack developer / product manager
 - 👯 I’m looking to collaborate on anything that can help provide a positive impact to society
-- 💬 Ask me about my pets 🐈‍⬛ 🐕
+- 💬 Ask me about my pets 🐈‍🐕
 - 🤷🏽   Pronouns: They / He
