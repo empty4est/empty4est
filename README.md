@@ -1,6 +1,6 @@
 ### Hi there, I'm Emon 👋
 ---
-#### Certified agile product manager with a developer background pursuing new possibilities in web3 to solve the question, “How can decentralized technologies benefit folks forced to leave their homeland?”
+#### Certified agile product manager with a developer background pursuing new possibilities in web3 to solve the question, “How can decentralized technologies benefit refugees?”
 
 ### A little about me:
 - 🔭 I’m currently working on smart contracts
