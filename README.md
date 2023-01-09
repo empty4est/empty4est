@@ -1,6 +1,6 @@
 ### Hi there, I'm Emon 👋
 ---
-#### Certified agile product manager with a developer background pursuing new possibilities in web3 to solve the question, “How can decentralized technologies benefit refugees?”
+#### In the year 2050, 17% of my motherland of Bangladesh will be under the rising sea levels. This creates impacts such as the loss of livable and arable land, leading to more population density and lower food production. I am pursuing new possibilities in web3 to solve the question, “How can decentralized technologies benefit climate refugees?”
 
 ### A little about me:
 - 🔭 I’m currently working on smart contracts
