@@ -1,6 +1,6 @@
 ### Hi there, I'm Emon 👋
 ---
-#### In the year 2050, 17% of my motherland of Bangladesh will be under the rising sea levels. This creates impacts such as the loss of livable and arable land, leading to more population density and lower food production. The goal for my next job, is to find a web3 role that will provide me skills to support my nation.
+#### By the year 2050, 17% of my motherland, Bangladesh, will be under the rising sea levels. This creates impacts such as the loss of livable and arable land, leading to more population density and lower food production. The goal for my next job, is to find a web3 role that will provide me skills to support my nation.
 
 ### A little about me:
 - 🔭 I’m currently working on smart contracts
